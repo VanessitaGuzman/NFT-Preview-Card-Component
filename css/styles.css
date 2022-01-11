@@ -1,0 +1,102 @@
+body {
+  background-color: hsl(217, 54%, 11%)
+}
+
+h1 {
+  font-family: outfit;
+  font-size: 1em;
+  font-weight: 600px;
+  color: white;
+  margin-left: 15px;
+
+}
+
+hr {
+  color: grey;
+  width: 90%;
+  border-width: 1px 0 0 0;
+}
+
+p {
+  font-family: outfit;
+  font-size: 1em;
+  font-weight: 400px;
+  color: hsl(215, 32%, 27%);
+  margin-left: 15px;
+  margin-right: 15px;
+  width:auto;
+}
+
+.threedays {
+  float: right;
+  margin-top: -35px;
+  margin-right: 55px;
+  color: hsl(215, 51%, 70%);
+
+}
+
+.avatar {
+  width: 50px;
+  float: left;
+  border: solid white;
+  border-width: medium;
+  border-radius: 180px;
+  margin-bottom: 25px;
+}
+
+.clock {
+  float: right;
+  margin-top: -35px;
+  margin-right: 25px;
+}
+
+.eth {
+  font-family: outfit;
+  font-weight: bold;
+  color: cyan;
+  padding-left: 25px;
+}
+
+.ethereum {
+  float: left;
+  margin-left: 15px;
+}
+
+.creation {
+  margin: 15px 0 25px 15px;
+}
+.Equilibrium {
+  border-radius: 25px;
+  width: 370px;
+  margin: 15px 15px 15px 15px;
+
+}
+
+.jules {
+  clear: right;
+}
+
+.preview-card {
+
+  width: 500px;
+  height: 700px;
+  margin:200px auto 200px auto;
+  padding-top: 25px;
+
+}
+
+.insidepreview {
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 25px;
+  box-shadow: 15px 15px 15px 15px #0C1729;
+  width:400px;
+  height: 600px;
+  margin: 25px auto auto;
+  padding-bottom: 25px;
+
+}
+
+.wy {
+  font-weight: medium;
+  color: white;
+}
